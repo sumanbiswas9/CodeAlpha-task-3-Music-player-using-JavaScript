@@ -15,7 +15,7 @@ Music App is a web application that allows users to browse and play music from a
     ```
 2. Navigate to the project directory:
     ```bash
-    cd music-app
+    cd CodeAlpha-task-3-Music-player-using-JavaScript
     ```
 3. Open `index.html` in your preferred web browser.
 
