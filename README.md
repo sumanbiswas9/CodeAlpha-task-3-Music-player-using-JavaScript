@@ -11,7 +11,7 @@ Music App is a web application that allows users to browse and play music from a
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/music-app.git
+    git clone https://github.com/sumanbiswas9/CodeAlpha-task-3-Music-player-using-JavaScript.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -28,4 +28,4 @@ Music App is a web application that allows users to browse and play music from a
 - Custom CSS (`style.css`)
 
 ## Contact
-For more information, please contact [yourname@example.com](mailto:yourname@example.com).
+For more information, please contact [sumanbiswas861762@gmail.com](mailto:sumanbiswas861762@gmail.com).
